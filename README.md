@@ -2,10 +2,10 @@
 Linguify is a simple and intuitive language translation app built with Streamlit and LangChain. The app uses the Ollama model for real-time translation between various languages.
 
 ## Features
-**Wide Language Support:** Translate between a wide range of languages, including English, Hindi, Spanish, Mandarin, Arabic, and more.
-**Real-Time Translation:** Enter a sentence, and instantly see the translated version in the selected output language.
-**User-Friendly Interface:** Clean and simple interface for easy navigation and translation.
-**Powered by LangChain:** Utilizes LangChain's integration with the Ollama model for accurate translations.
+- **Wide Language Support:** Translate between a wide range of languages, including English, Hindi, Spanish, Mandarin, Arabic, and more.
+- **Real-Time Translation:** Enter a sentence, and instantly see the translated version in the selected output language.
+- **User-Friendly Interface:** Clean and simple interface for easy navigation and translation.
+- **Powered by LangChain:** Utilizes LangChain's integration with the Ollama model for accurate translations.
 
 ## Installation
 To run Linguify locally, follow these steps:
