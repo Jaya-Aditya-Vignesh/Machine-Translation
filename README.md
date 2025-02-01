@@ -29,10 +29,10 @@ Run the app:
 streamlit run app.py
 ```
 ## How to Use
--Select the input language and output language from the dropdown menus.
--Enter a sentence in the input text area.
--Click the Translate button to see the translated text in the output area.
--Libraries and Tools Used
--Streamlit: Framework for building the web app.
--LangChain: Used for chaining models and generating prompts for translation.
--Ollama (llama3.2 model): The language model used for performing translations.
+- Select the input language and output language from the dropdown menus.
+- Enter a sentence in the input text area.
+- Click the Translate button to see the translated text in the output area.
+- Libraries and Tools Used
+- Streamlit: Framework for building the web app.
+- LangChain: Used for chaining models and generating prompts for translation.
+- Ollama (llama3.2 model): The language model used for performing translations.
