@@ -1,5 +1,5 @@
-# Linguify - Language Translation App
-Linguify is a simple and intuitive language translation app built with Streamlit and LangChain. The app uses the Ollama model for real-time translation between various languages.
+# LanguageBridge  - Language Translation App
+LanguageBridge  is a simple and intuitive language translation app built with Streamlit and LangChain. The app uses the Ollama model for real-time translation between various languages.
 
 ## Features
 - **Wide Language Support:** Translate between a wide range of languages, including English, Hindi, Spanish, Mandarin, Arabic, and more.
@@ -8,7 +8,7 @@ Linguify is a simple and intuitive language translation app built with Streamlit
 - **Powered by LangChain:** Utilizes LangChain's integration with the Ollama model for accurate translations.
 
 ## Installation
-To run Linguify locally, follow these steps:
+To run LanguageBridge  locally, follow these steps:
 
 Clone the repository:
 
